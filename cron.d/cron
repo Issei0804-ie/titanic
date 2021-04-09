@@ -1,0 +1,2 @@
+00 */1 * * * /go/src/app/cron.sh >> /var/log/cron.log 2>&1
+ 

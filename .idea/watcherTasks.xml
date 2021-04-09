@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectTasksOptions">
+    <enabled-global>
+      <option value="go fmt" />
+      <option value="golangci-lint" />
+      <option value="goimports" />
+      <option value="rsync" />
+    </enabled-global>
+  </component>
+</project>
